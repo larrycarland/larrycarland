@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 I work at SSW 
+🔭 I work at SSW https://www.ssw.com.au/
 
 🤝 I enjoy connecting with business leaders to explore how AI can solve real business challenges.
 
