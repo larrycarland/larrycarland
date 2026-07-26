@@ -10,7 +10,7 @@
 
 🏢 At SSW, we have over 30 years of experience delivering custom software solutions for organisations ranging from growing businesses to some of Australia's most recognised enterprises.
 
-🚀 We've helped organisations including Allianz, Toll Group, Microsoft, Commonwealth Bank, Domain, Cisco, Symantec, and Event Cinemas deliver high-quality software solutions that drive business outcomes.
+🚀 We've helped organisations including Allianz, Toll Group, Microsoft, Commonwealth Bank, Domain, Cisco, Symantec, and Event Cinemas deliver high-quality software solutions.
 
 📫 Reach me at larrycarland@ssw.com.au
 
