@@ -2,9 +2,9 @@
 
 🔭 I work at SSW https://www.ssw.com.au/
 
-🤝 I enjoy connecting with business leaders to explore how AI can solve real business challenges.
+🤝 Connecting with business leaders to explore how AI can solve real business challenges.
 
-🌱 I'm continually learning about the latest AI platforms (Fable 5), agentic workflows, and emerging technologies to help businesses stay ahead.
+🌱 Using the latest AI platforms (Fable 5), agentic workflows, and emerging technologies to help businesses stay ahead.
 
 💬 Ask me about AI adoption, Microsoft AI technologies, custom software development, and digital transformation.
 
